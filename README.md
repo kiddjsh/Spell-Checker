@@ -14,8 +14,8 @@ A list of correctly spelled words is read from a dictionary file and stored insi
 
 # Flowchart 
 
-![flowchart_one](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/flowchart_one.PNG)
-![flowchart_two](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/flowchart_two.PNG)
+![flowchart_one](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/flowchart_one.PNG)
+![flowchart_two](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/flowchart_two.PNG)
 
 # Data Structures Used
 
@@ -37,7 +37,7 @@ Each node corresponds to a hash function index into the hash table. Each node st
 
 # Visualization
 
-![visualization](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/visualization.PNG)
+![visualization](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/visualization.PNG)
 
 # Hash index function
 In data storage and retrieval applications, use of a hash function is perferable in terms of effiency. Collisions should be infrequent, causing marginal delay, that results in few collisions.
@@ -62,12 +62,12 @@ int HashTable<ItemType>::Hash(ItemType newItem)
 
 # HashTable UML
 
-![hashtable_uml_one](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/hashtable_uml_one.PNG)
-![hashtable_uml_two](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/hashtable_uml_two.PNG)
+![hashtable_uml_one](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/hashtable_uml_one.PNG)
+![hashtable_uml_two](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/hashtable_uml_two.PNG)
 
 # HashTable Iterator UML
 
-![iterator_uml_one](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/iterator_uml_one.PNG)
-![iterator_uml_two](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/iterator_uml_two.PNG)
+![iterator_uml_one](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/iterator_uml_one.PNG)
+![iterator_uml_two](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/iterator_uml_two.PNG)
 
 
