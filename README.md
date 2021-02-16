@@ -1,0 +1,2 @@
+# Spell-Checker
+A program that performs a spell check on a string of words and informs the user if they are spelled correctly,  and if not, then displays a list of words that could be the correct spelling. A list of correctly spelled words  is read from a dictionary file and stored inside a Hash table. The hash table is used to look up words for  correct spelling. A spell check function is used to find alternatives for incorrectly spelled words.
