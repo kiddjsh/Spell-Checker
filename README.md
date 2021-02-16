@@ -25,7 +25,7 @@ HashTable<string> hashTable(TABLE_SIZE);
 A hash table store items by calculating a key index based in the value of the item to be inserted. Collisions  occur when two different items hash to the same index.
 The hash table stores a list of nodes corresponding to each index in the hash table.
  
-``` 
+```C++
 struct node
 {
     ItemType currentItem;
@@ -42,7 +42,7 @@ Each node corresponds to a hash function index into the hash table. Each node st
 # Hash index function
 In data storage and retrieval applications, use of a hash function is perferable in terms of effiency. Collisions should be infrequent, causing marginal delay, that results in few collisions.
 
-```
+```C++
 int HashTable<ItemType>::Hash(ItemType newItem)
 {
     long h = 19937;
