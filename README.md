@@ -10,7 +10,7 @@ A list of correctly spelled words is read from a dictionary file and stored insi
 
 # Block Diagram 
 
-![block diagram](https://raw.githubusercontent.com/kiddjsh/Spell-Checker-Program/main/screenshots/blockdiagram.PNG)
+![block diagram](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/blockdiagram.PNG)
 
 # Flowchart 
 
