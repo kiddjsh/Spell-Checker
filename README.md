@@ -24,7 +24,7 @@ A list of correctly spelled words is read from a dictionary file and stored insi
 A Hash table class is used to store the words from the word dictionary having the following signature where TABLE_SIZE is the hash table initial size.
 HashTable<string> hashTable(TABLE_SIZE);
  
-A hash table store items by calculating a key index based in the value of the item to be inserted. Collisions  occur when two different items hash to the same index.
+A hash table stores items by calculating a key index based in the value of the item to be inserted. Collisions occur when two different items hash to the same index.
 The hash table stores a list of nodes corresponding to each index in the hash table.
  
 ```C++
