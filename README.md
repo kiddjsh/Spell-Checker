@@ -8,6 +8,8 @@ A program that performs a spell check on a string of words and informs the user 
 
 A list of correctly spelled words is read from a dictionary file and stored inside a Hash table. The hash table is used to look up words for correct spelling. A spell check function is used to find alternatives for incorrectly spelled words.
 
+![projectSpellChecker](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/projectSpellChecker.PNG)
+
 # Block Diagram 
 
 ![block diagram](https://raw.githubusercontent.com/kiddjsh/Spell-Checker/main/screenshots/blockdiagram.PNG)
